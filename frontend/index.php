@@ -1,7 +1,7 @@
 <?php require_once './components/index-apertura.php' ?>
 
 <?php
-$url = "http://localhost/projects/crud-usuarios-pi/backend/models/usuarios.php";
+$url = "http://localhost/projects/crud-pokemon-inc/backend/models/usuarios.php";
 $parameters = "?httpMethods=GET";
 $endpoint = $url . $parameters;
 $ch = curl_init();

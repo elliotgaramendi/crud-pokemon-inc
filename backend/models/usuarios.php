@@ -1,5 +1,5 @@
 <?php
-require_once '../../backend/models/conexion.php';
+require_once './Conexion.php';
 
 if (isset($_REQUEST['httpMethods']) && !empty($_REQUEST['httpMethods'])) {
   switch ($_REQUEST['httpMethods']) {
