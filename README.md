@@ -1,22 +1,22 @@
-# [CRUD POKEMON INC](https://elliotgaramendi.000webhostapp.com/app/crud-pokemon-inc/frontend/) | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="20"/>](https://github.com/ElliotXLeo) | [<img src="https://image.flaticon.com/icons/png/512/145/145802.png" height="20"/>](https://www.facebook.com/elliotgaramendi) | [<img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" height="20"/>](https://api.whatsapp.com/send?phone=51997045329) | [<img src="https://image.flaticon.com/icons/png/512/975/975645.png" height="20"/>](https://nextjs-react-portafolio-fc.vercel.app) | [<img src="https://image.flaticon.com/icons/png/512/5439/5439199.png" height="20"/>](mailto:elliotgaramendi@gmail.com) | 
+# [CRUD Pokémon Inc](https://elliotgaramendi.000webhostapp.com/app/crud-pokemon-inc/frontend/) | [<img src="https://i.postimg.cc/dtPYcvbM/youtube.png" alt="YouTube" height="20px"/>](https://www.youtube.com/@elliotgaramendi) | [<img src="https://i.postimg.cc/5NBMxTJX/github.png" alt="GitHub" height="20px"/>](https://github.com/elliotgaramendi) | [<img src="https://i.postimg.cc/J7BLFtdc/linkedin.png" alt="Linkedin" height="20px"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://i.postimg.cc/sfJtqS4W/instagram.png" alt="Instagram" height="20px"/>](https://www.instagram.com/elliotgaramendi/)
 
-[![crud-pokemon-inc](https://i.postimg.cc/D0jDYfKZ/crud-pokemon-inc.png)](https://elliotgaramendi.000webhostapp.com/app/crud-pokemon-inc/frontend/)
+[![CRUD Pokémon Inc](https://i.postimg.cc/pdVrDSsh/crud-pokemon-inc.png)](https://elliotgaramendi.000webhostapp.com/app/crud-pokemon-inc/frontend/)
 
-## Resumen
+## 📜 Resumen 📜
 Aplicación Web donde puedes administrar usuarios mediante un CRUD. La aplicación emplea MySQL como motor de base de datos, PHP de lado del Backend y PHP de lado del Frontend.
 
-## Requisitos
+## 📋 Requisitos 📋
 - PHP 8.X
 - MySQL 5.X
 - Cliente Web (Opera, Firefox, Chrome, etc.)
 
-## Instalación
+## 💻 Instalación 💻
 - Archivos
   - Ubicarse en la carpeta dentro del servidor que contendrá la aplicación 
   - Abrir terminal de comandos
-  - git clone https://github.com/ElliotXLeo/crud-pokemon-inc || descargar y copiar zip
+  - git clone https://github.com/elliotgaramendi/crud-pokemon-inc.git || descargar y copiar zip
   - cd crud-pokemon-inc || Ir desde el explorador de archivos
-  - Abrir la aplicación en el editor de preferencia
+  - Abrir la aplicación en el editor de su preferencia
   - Editar la variable $url de la línea 4 de /frontend/index.php y línea 6 de /frontend/views/editar.php a una ruta que coincida con el recurso /backend/models/usuarios.php en su servidor
 
 - Base de datos
@@ -24,23 +24,24 @@ Aplicación Web donde puedes administrar usuarios mediante un CRUD. La aplicaci�
   - Crear la tabla develop
   - Usar la base de datos creada
   - Importar el script develop.sql
-    - /base-de-datos
+    - /database 
 
 - Aplicación
   - Abrir un cliente web
   - Poner la url de su index principal (vista) del frontend
   - Disfrutar
   
-## Posibles errores
+## ❌ Posibles errores ❌
 - Si tiene credenciales diferentes en su motor de base de datos, deberá configurar el script ubicado en /backend/models/Conexion.php con su editor favorito.
 
-## Tecnologías
+## 👨‍💻 Tecnologías usadas 👨‍💻
 | MYSQL | PHP | Bootstrap |
 | --- | --- |--- |
 | <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="1000"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="1000"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="1000px"/> |
 
-## Endpoints
+## 🔗 Endpoints 🔗
 
+URL: https://elliotgaramendi.000webhostapp.com/app/crud-pokemon-inc/backend/models/usuarios.php
 ### **usuarios**
 
 > #### $_REQUEST['httpMethods'] == POST /backend/models/usuarios.php
@@ -92,15 +93,8 @@ Aplicación Web donde puedes administrar usuarios mediante un CRUD. La aplicaci�
 }
 ```
 
-## Redes sociales
-- LinkedIn: https://www.linkedin.com/in/elliotgaramendi/
-
-- GitHub: https://github.com/ElliotXLeo
-
-- Facebook: https://www.facebook.com/elliotgaramendi
-
-- WhatsApp: https://api.whatsapp.com/send?phone=51997045329
-
-- Personal Web: https://nextjs-react-portafolio-fc.vercel.app
-
-- Correo: elliotgaramendi@gmail.com
+## 🤗 Redes sociales 🤗
+- 🐭 YouTube: https://www.youtube.com/@elliotgaramendi 🐭
+- 🐭 GitHub: https://github.com/elliotgaramendi 🐭
+- 🐭 LinkedIn: https://www.linkedin.com/in/elliotgaramendi/ 🐭
+- 🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭
